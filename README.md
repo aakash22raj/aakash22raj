@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I am Akash Kumar Raj
 
 <!--
 **aakash22raj/aakash22raj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
