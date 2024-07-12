@@ -1,4 +1,4 @@
-![logo](https://github.com/aakash22raj/aakash22raj/blob/main/web-site-development-programming-or-coding-banner-free-vector.jpg)
+![logo](https://github.com/aakash22raj/aakash22raj/blob/main/Black%20Gold%20Minimalist%20Elegant%20Business%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Akash Kumar Raj</h1>
 <h3 align="center">I am a passionate web developer designs, creates, and develop the web applications. and work on both the front-end and back-end aspects of development.</h3>
