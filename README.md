@@ -4,7 +4,7 @@
 <h3 align="center">I am a passionate web developer designs, creates, and develop the web applications. and work on both the front-end and back-end aspects of development.</h3>
   
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakash22raj" alt="aakash22raj" /></a> </p>
+
 
 
 
@@ -48,9 +48,7 @@
 ---
 
   
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=aakash22raj&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
+
 
 
 ---
