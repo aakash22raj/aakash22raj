@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar Raj</h1>
 <h3 align="center">I am a passionate web developer designs, creates, and develop the web applications. and work on both the front-end and back-end aspects of development.</h3>
   
----
+
+<h1 align="center"></h1>
 
 
 <h3 align="left">Connect with me:</h3>
