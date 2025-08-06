@@ -12,7 +12,7 @@
 <a href="https://twitter.com/aakash22raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aakash22raj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aakash22raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakash22raj" height="30" width="40" /></a>
 <a href="https://instagram.com/aakash22raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakash22raj" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aakashrqi6k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aakashrqi6k" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/aakash22raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aakashrqi6k" height="30" width="40" /></a>
 
   📫 How to reach me **aakashrajgic@gmail.com**
 </p>
